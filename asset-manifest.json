@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/klikpedia-app/static/css/main.57af0c91.css",
-    "main.js": "/klikpedia-app/static/js/main.f62bf294.js",
+    "main.js": "/klikpedia-app/static/js/main.2926d2ad.js",
     "static/js/787.d56c584d.chunk.js": "/klikpedia-app/static/js/787.d56c584d.chunk.js",
     "static/media/logo.svg": "/klikpedia-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/klikpedia-app/index.html",
     "main.57af0c91.css.map": "/klikpedia-app/static/css/main.57af0c91.css.map",
-    "main.f62bf294.js.map": "/klikpedia-app/static/js/main.f62bf294.js.map",
+    "main.2926d2ad.js.map": "/klikpedia-app/static/js/main.2926d2ad.js.map",
     "787.d56c584d.chunk.js.map": "/klikpedia-app/static/js/787.d56c584d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57af0c91.css",
-    "static/js/main.f62bf294.js"
+    "static/js/main.2926d2ad.js"
   ]
 }
