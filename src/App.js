@@ -74,7 +74,7 @@ function App() {
             <form action="">
             <select name="" id="" onChange={e=> setName(e.target.value)}>
               <option value="" disabled selected hidden>Name</option>
-              <option value="ss">ss</option>
+              <option value="test">Test1</option>
             {ifValid()}
             </select>
             </form>
